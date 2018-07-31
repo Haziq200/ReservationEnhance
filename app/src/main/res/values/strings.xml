@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReservationEnhance</string>
+    <string name="name">Your Name:</string>
+    <string name="number">Mobile number:</string>
+    <string name="size">Size of group:</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="smoking">Smoking area</string>
+    <string name="Nsmoking">Non-smoking area</string>
+    <string name="reserve">Reserve</string>
+    <string name="d">Day</string>
+    <string name="t">Time</string>
+    <string name="day">Click here to select day</string>
+    <string name="time">Click here to select time</string>
+</resources>
